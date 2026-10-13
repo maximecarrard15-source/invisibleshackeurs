@@ -20,3 +20,12 @@ Nous sommes quatre personnes, et nous avons tous des compétences complémentair
 * Claude d’Anthropic, qui nous a aidé à rédiger le contenu des pages du site, et uniquement le contenu bien sûr (pas le code), après avoir reçu des instructions claires sur les informations à mettre, le style adapté et les sources sur lequelles se baser. Son travail a systématiquement été relu attentivement et vérifié.
 
 * ChatGPT d’OpenAI, qui nous a aidé à créer les petites illustrations que l’on retrouve partout sur le site, après avoir reçu des instructions claires sur ce que l’on souhaitait avoir.
+
+* Mistral Code pour la page admin, à laquelle on accède via le footer de la page index.
+
+* Vercel pour le l'hébergement du site.
+
+* FireBase pour collecter et stocker les données.
+
+Mot de passe : PMZM1
+
